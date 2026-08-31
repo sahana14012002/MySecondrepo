@@ -1,0 +1,7 @@
+# Print text directly to the console
+print("Hello, World!")
+
+# Capture a string input from the user
+user_name = input("Enter your name: ")
+print(f"Welcome to Python, {user_name}!")
+
